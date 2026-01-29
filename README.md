@@ -34,12 +34,13 @@
 - AOS Library
 
 ## 📂 Estructura
+``` text
 nexum-asociados/ 
-              ├── index.html # Página principal 
-              ├── style.css # Estilos premium 
-              ├── script.js # JavaScript moderno 
-                  └── README.md # Documentación
-
+├── index.html # Página principal 
+├── style.css # Estilos premium 
+├── script.js # JavaScript moderno 
+└── README.md # Documentación
+```
  ## Demo
 [🌐 Ver en vivo](https://yamilacode.github.io/abogados-landing-page/)
 
